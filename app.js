@@ -16,7 +16,7 @@
   const CURRENT_SCHEMA_VERSION = 2;
   const BASE_VALUE_COUNT = 25;
   const VOTE_SEQUENCE = ['SEÇ', 'HAYIR', 'ORTA', 'EVET'];
-  const LOGIN_SEED_USERS = [{ username: 'besir', password: '1234' }];
+  const LOGIN_SEED_USERS = [{ username: 'besir', password: 'Mys7806720?' }];
   const LEGACY_STORAGE_KEYS = {
     history: 'uye_history',
     draft: 'uye_draft',
